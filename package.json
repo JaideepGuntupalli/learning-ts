@@ -1,0 +1,14 @@
+{
+  "name": "learning-ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": "https://github.com/JaideepGuntupalli/learning-ts.git",
+  "author": "Jaideep <guntupallijaideep@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
